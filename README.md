@@ -13,7 +13,7 @@ This project is a full-stack Todo web application built using HTML, CSS, ReactJS
 
 ## Demo
 
-You can view a live demo of the project [here](https://piyush-pise.github.io/To-Do-App-React).
+You can view a live demo of the project [here](https://to-do-react-vite-web-application.vercel.app/).
 
 ## Features
 
